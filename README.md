@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm GK
 
-<!--
-**art-by-gk/art-by-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+I'm passionate about **systems programming** and enjoy understanding how computers work—from the **operating system** down to the **hardware**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Interests
+
+* 🐧 Linux Systems Programming
+* 💻 Operating Systems
+* ⚙️ Modern C++
+* 🖥️ Computer Architecture
+* 🔧 System Software
+
+---
+
+## 📚 Currently Learning
+
+* 🌱 Modern C++
+* 🐧 Linux Internals
+* 💾 Operating Systems
+* 📖 Data Structures & Algorithms
+* 🎯 GATE CS Preparation
+
+---
+
+## 🎯 Goals
+
+* 🛠️ Build useful Linux system tools
+* 🚀 Strengthen systems programming skills
+* 🤝 Contribute to open-source projects
+* 🎓 Pursue higher studies in Computer Science
+
+---
+
+## 📌 Current Status
+
+> 🚧 Currently building my first systems programming projects.
+
+---
+
+## 📫 Connect
+
+⭐ Thanks for visiting my profile!
